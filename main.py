@@ -4,7 +4,7 @@ import os
 from random import randint
 
 # chnage the current working directory
-os.chdir('/Users/manosmarketos/Desktop/Dev/Pygame')
+os.chdir('/Users/manosmarketos/Desktop/Dev/Pygame/Simple 2D game with Pygame')
 
 class Player(pygame.sprite.Sprite):
     def __init__(self):
